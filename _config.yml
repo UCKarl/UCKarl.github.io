@@ -28,6 +28,8 @@ links:
     url: /tips
   - title: Interests
     url: /interests
+  - title: Links
+    url: /links
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
