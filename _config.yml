@@ -7,7 +7,7 @@ owner:
   name:           Karl Ni
   avatar:         avatar.png
   bio:            "WRITEME"
-  email:          kni@iqt.org
+  email:          karl1980@gmail.com
   github:         karllab41
   location:       "Menlo Park, CA"
 
@@ -24,6 +24,8 @@ links:
     url: /publications
   - title: Software
     url: /software
+  - title: Tips
+    url: /tips
   - title: Interests
     url: /interests
 
