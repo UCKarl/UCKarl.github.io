@@ -5,8 +5,14 @@ title: Tips
 tags: [tips]
 ---
 
-# Algorithm and software development how to's
+### Matrix Calculations
 
-## Multiple Gits on a Mac
+Algorithmss
 
-## Dockerfiles
+### Multiple Gits on a Mac
+
+As it turns out, if you have a Mac and multiple Github pages (perhaps one for work and one for fun, let's say), you've probably run into a permissions problem.
+
+### Dockerfile
+
+s
