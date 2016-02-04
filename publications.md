@@ -5,9 +5,12 @@ title: Academics
 tags: [publications]
 ---
 
-## Selected publications
+Here's a look at what I've been up to recently. My full publications/invited talks/
+patents/etc. list is on my 
+[CV](https://drive.google.com/file/d/0B_jR_71Z9vd_bURDYW5LbjZoZEE/view?usp=sharing). 
+If you'd like to know more about any of these works, feel free to contact me!
 
-Here's a look at what I've been up to recently. My full publications list is on my [CV](https://drive.google.com/file/d/0B_jR_71Z9vd_bURDYW5LbjZoZEE/view?usp=sharing). If you'd like to know more about any of these works, feel free to contact me!
+## Selected publications
 
 **Mapping Images to Sentiment Adjective Noun Pairs with Factorized Neural Nets**  [(pdf)](http://arxiv.org/pdf/1511.06838v1)
 Takuya Narihira, Damian Borth, Stella X. Yu, Karl Ni, Trevor Darrell,
