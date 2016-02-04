@@ -22,6 +22,8 @@ links:
     url: /about
   - title: Academics
     url: /publications
+  - title: Interests
+    url: /interests
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
