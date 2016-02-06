@@ -8,8 +8,8 @@ tags: [climbing,riding,ice cream,smoked salmon]
 ## Interests
 
 1. [Food](#Food)
-..* Smoking salmon
-..* Making ice cream
+  * Smoking salmon
+  * Making ice cream
 2. [Climbing](#Climbing)
 
 ### Food <a name="Food"></a> 
