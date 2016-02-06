@@ -7,7 +7,7 @@ tags: [tips]
 
 ### Matrix Calculations
 
-Algorithmss
+Algorithms
 
 ### Multiple Gits on a Mac
 
