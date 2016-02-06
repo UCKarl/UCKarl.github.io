@@ -8,8 +8,8 @@ tags: [climbing,riding,ice cream,smoked salmon]
 ## Interests
 
 1. [Food](#Food)
-  a. Smoking salmon
-  b. Making ice cream
+..* Smoking salmon
+..* Making ice cream
 2. [Climbing](#Climbing)
 
 ### Food <a name="Food"></a> 
@@ -17,7 +17,9 @@ tags: [climbing,riding,ice cream,smoked salmon]
 Cold smoking salmon. "Sushi-grade" salmon, doesn't really exist. Before you do anything with the . There are several ways to do it:
 
 1. Liquid smoke (cheating, really)
-2. Low heat, grill-based
+2. Low heat, coal grill-based
+3. Side smoker
+4. Traeger grill
 
 ### Climbing <a name="Climbing"></a> 
 
