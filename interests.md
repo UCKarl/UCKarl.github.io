@@ -18,7 +18,11 @@ tags: [climbing,riding,ice cream,smoked salmon]
 
 **Cold smoking salmon**
 
-"Sushi-grade" salmon, doesn't really exist. Before you do anything with the . There are several ways to do it:
+1. _Buying the salmon_: "Sushi-grade" salmon, doesn't really exist. It really depends on where you get your fish. 
+
+First off, since salmon can be a freshwater fish, it is always frozen before anyone cooks it. Then, when you go to CostCo, you're getting. 
+
+To be safe, though, before you do anything with the salmon, freeze it. The particular strain of bacteria that you're trying to get rid of is. There are several ways to do it:
 
 1. Liquid smoke (cheating, really)
 2. Low heat, coal grill-based
