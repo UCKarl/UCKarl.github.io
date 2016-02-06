@@ -22,7 +22,11 @@ tags: [climbing,riding,ice cream,smoked salmon]
 
    First off, since salmon can be a freshwater fish, it is always frozen before anyone cooks it. Then, when you go to CostCo, you're getting. 
 
-2. _Freeze the fish_:   To be safe, though, before you do anything with the salmon, freeze it. The particular strain of bacteria that you're trying to get rid of is. There are several ways to do it:
+2. _Freezing the fish_:   To be safe, though, before you do anything with the salmon, freeze it. The particular strain of bacteria that you're trying to get rid of is. There are several ways to do it:
+
+3. _Preparing and flavoring_:  There are actually only a few essential ingredients that you need for preparation and the rest is optional. I've made it bare and with additional stuff, and unless your palate is very sensitive, the hint of dill or the extra stuff are nice, but not necessary to the basic 
+
+4. _Cold smoking, various methodologies_:
 
      1. Liquid smoke (cheating, really)
      2. Low heat, coal grill-based
