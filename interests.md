@@ -12,16 +12,20 @@ tags: [climbing,riding,ice cream,smoked salmon]
   * Making ice cream
 2. [Climbing](#Climbing)
 
-### Food <a name="Food"></a> 
+<a name="Food"></a>
+### Food  
 
-Cold smoking salmon. "Sushi-grade" salmon, doesn't really exist. Before you do anything with the . There are several ways to do it:
+**Cold smoking salmon**
+
+"Sushi-grade" salmon, doesn't really exist. Before you do anything with the . There are several ways to do it:
 
 1. Liquid smoke (cheating, really)
 2. Low heat, coal grill-based
 3. Side smoker
 4. Traeger grill
 
-### Climbing <a name="Climbing"></a> 
+<a name="Climbing"></a>
+### Climbing  
 
 Check out the climbing map for the [exact coordinates](https://www.google.com/maps/d/viewer?mid=zLHKHr8srqkI.kpkaPD1cy8NM) of several East Bay bouldering areas. On the peninsula, I've found this guy's [website](http://web.stanford.edu/~clint/) and his linked [map](http://web.stanford.edu/~clint/ba/) to be helpful.
 
