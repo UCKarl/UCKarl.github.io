@@ -1,0 +1,16 @@
+Ambitions/01-Track-1.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/02-Track-2.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/03[[:space:]]03[[:space:]]03[[:space:]]03[[:space:]]03[[:space:]]03[[:space:]]Track[[:space:]]3.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/04[[:space:]]04[[:space:]]04[[:space:]]04[[:space:]]04[[:space:]]04[[:space:]]Track[[:space:]]4.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/05[[:space:]]05[[:space:]]05[[:space:]]05[[:space:]]05[[:space:]]05[[:space:]]Track[[:space:]]5.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/06[[:space:]]06[[:space:]]06[[:space:]]06[[:space:]]06[[:space:]]06[[:space:]]Track[[:space:]]6.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/07[[:space:]]07[[:space:]]07[[:space:]]07[[:space:]]07[[:space:]]Track[[:space:]]7.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/08[[:space:]]08[[:space:]]08[[:space:]]08[[:space:]]08[[:space:]]08[[:space:]]Track[[:space:]]8.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/09[[:space:]]09[[:space:]]09[[:space:]]09[[:space:]]09[[:space:]]09[[:space:]]Track[[:space:]]9.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/10[[:space:]]10[[:space:]]10[[:space:]]10[[:space:]]Track[[:space:]]10.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/11[[:space:]]11[[:space:]]11[[:space:]]11[[:space:]]11[[:space:]]Track[[:space:]]11.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/12[[:space:]]12[[:space:]]12[[:space:]]12[[:space:]]Track[[:space:]]12.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/13[[:space:]]13[[:space:]]13[[:space:]]13[[:space:]]13[[:space:]]13[[:space:]]Track[[:space:]]13.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/14[[:space:]]14[[:space:]]14[[:space:]]14[[:space:]]14[[:space:]]14[[:space:]]Track[[:space:]]14.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions/15[[:space:]]15[[:space:]]15[[:space:]]15[[:space:]]15[[:space:]]15[[:space:]]Track[[:space:]]15.wma filter=lfs diff=lfs merge=lfs -text
+Ambitions filter=lfs diff=lfs merge=lfs -text
