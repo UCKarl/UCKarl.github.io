@@ -13,6 +13,7 @@ tags: [climbing,riding,ice cream,smoked salmon]
 2. [Climbing](#Climbing)
 
 <a name="Food"></a>
+
 ### Food  
 
 **Cold smoking salmon**
@@ -25,6 +26,7 @@ tags: [climbing,riding,ice cream,smoked salmon]
 4. Traeger grill
 
 <a name="Climbing"></a>
+
 ### Climbing  
 
 Check out the climbing map for the [exact coordinates](https://www.google.com/maps/d/viewer?mid=zLHKHr8srqkI.kpkaPD1cy8NM) of several East Bay bouldering areas. On the peninsula, I've found this guy's [website](http://web.stanford.edu/~clint/) and his linked [map](http://web.stanford.edu/~clint/ba/) to be helpful.
