@@ -5,7 +5,7 @@ title: Music
 tags: [music]
 ---
 
-In high school, I got into piano music compositions, and thought it'd be fun to make an album. It's pretty new-age-y, but the stuff I could actually do is similar to Jim Brickman and Yanni, which I have been told is not necessarily the demographic of my generation. Whatevs, it was a start, and fun to get together with high school friends to bang out some tunes. I'd like to get into jazz piano, but I have been having a ton of trouble with trying to know which chords to use when.
+In high school, I got into piano music compositions, and thought it'd be fun to make an album. It's pretty new-age-y, but the stuff I could actually do is similar to Jim Brickman and Yanni, which I have been told is not necessarily the demographic of my generation. Whatevs, it was a start, and fun to get together with high school friends to bang out some tunes. I'd like to get into jazz piano but have been having a ton of trouble with trying to know which chords to use when.
 
 ### My High School Music Stuffs
 
@@ -26,6 +26,10 @@ I found it much easier to go off the top of my head instead of structuring it ac
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245685177&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245685165&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245685145&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+### Stuff I'm into
+
+Recently, getting into stuff [Kate Tempest](http://www.npr.org/2015/06/07/412288857/kate-tempest-when-youre-writing-its-not-about-you) has done.
 
 
 
