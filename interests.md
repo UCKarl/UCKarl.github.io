@@ -5,11 +5,18 @@ title: Interests
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
-### Climbing
+## Interests
+
+1. [Food](#Food)
+2. [Climbing][#Climbing]
+
+### Food <a name="Food"></a> 
+
+### Climbing <a name="Climbing"></a> 
 
 Check out the climbing map for the [exact coordinates](https://www.google.com/maps/d/viewer?mid=zLHKHr8srqkI.kpkaPD1cy8NM) of several East Bay bouldering areas. On the peninsula, I've found this guy's [website](http://web.stanford.edu/~clint/) and his linked [map](http://web.stanford.edu/~clint/ba/) to be helpful.
 
-#### Grizzly Peak Bouldering
+### Grizzly Peak Bouldering
 
 One of the more difficult places to find. Copy the link below onto your phone's GPS so that you can find the climbing area.
 
