@@ -29,7 +29,8 @@ I found it much easier to go off the top of my head instead of structuring it ac
 
 ### Stuff I'm into
 
-Recently, getting into stuff [Kate Tempest](http://www.npr.org/2015/06/07/412288857/kate-tempest-when-youre-writing-its-not-about-you) has done.
+Recently, getting into some refreshing rap by [Kate Tempest](http://www.npr.org/2015/06/07/412288857/kate-tempest-when-youre-writing-its-not-about-you). 
+
 
 
 

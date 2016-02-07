@@ -6,7 +6,7 @@ tags: [publications]
 ---
 
 Here's a look at what I've been up to recently. My full publications/invited talks list is on my 
-[CV](https://drive.google.com/file/d/0B_jR_71Z9vd_ODdqRGdwSXExQ00/view?usp=sharing). 
+[CV](https://drive.google.com/file/d/0B_jR_71Z9vd_ODdqRGdwSXExQ00/view?usp=sharing) or [Google Scholar](https://scholar.google.com/citations?user=T1w7OIQAAAAJ&hl=en)
 If you'd like to know more about any of these works, feel free to contact me!
 
 ## Recent publications
