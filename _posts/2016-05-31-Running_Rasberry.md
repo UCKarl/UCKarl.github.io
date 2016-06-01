@@ -9,9 +9,14 @@ tags: [poetry, music, songwriting]
 ---
 
 Y'know I always remember the time when you cried
+
 the tears streaming down your big brown eyes
+
 I just smiled and leaned down to kiss it away
+
 sayin', ssh shh, darlin' it'll be okay
+
+
 
 When you went to off to school, I slowly sighed
 but a boy brought you back home to my arms
