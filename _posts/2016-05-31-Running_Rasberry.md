@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: Running Rasberry
-description: "Transitioning Lyrics"
+description: "Draft Lyrics for Song (in progress)"
 categories: articles
 comments: true
 date: 2016-5-31
