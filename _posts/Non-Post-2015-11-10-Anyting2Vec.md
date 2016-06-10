@@ -12,4 +12,4 @@ In 2013, word2vec made waves in the neural network world. The code was readable 
 
 Still, after talking with several colleagues and friends spanning multiple countries, as it turns out, not a lot of people know why it's called a flat neural network. They had a good grasp of what was happening, but formalizing it in deep learning frameworks was difficult and the papers weren't helping. And, if you're like us, who jumped on the DL-train to Bandwagon-Town, we like writing Keras/Theano/Torch/Caffe layers to fit into existing and new architectures. To understand word2vec in typical NN frameworks (instead of just large-scale HPC), we feel like the DL-train, which usually doesn't often stop for explanations, deserves a pit stop and a deeper examination.
 
-Intrigued? Well, for the full blog, read the work at [Lab41](https://www.lab41.org/anything2vec), and you'll get links, references, and some diagrams to show you what we're Vec'ing up tonight!
+Intrigued? For the full blog, read the work at [Lab41](https://www.lab41.org/anything2vec), and you'll get links, references, and some diagrams to show you what we're Vec'ing up tonight!
