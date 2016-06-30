@@ -14,20 +14,21 @@ tags: [climbing,riding,ice cream,smoked salmon]
 3. [Climbing](#Climbing)
 
 <a name="iPad"></a>
+
 ### iPad Artwork
 
 Not much precision in finger art.
-![ipadart/im-01.png]
-![ipadart/im-02.png]
-![ipadart/im-03.png]
-![ipadart/im-04.png]
-![ipadart/im-05.png]
-![ipadart/im-06.png]
-![ipadart/im-07.png]
-![ipadart/im-08.png]
-![ipadart/im-09.png]
-![ipadart/im-10.png]
-![ipadart/im-11.png]
+![im-01](ipadart/im-01.png)
+![im-02](ipadart/im-02.png)
+![im-03](ipadart/im-03.png)
+![im-04](ipadart/im-04.png)
+![im-05](ipadart/im-05.png)
+![im-06](ipadart/im-06.png)
+![im-07](ipadart/im-07.png)
+![im-08](ipadart/im-08.png)
+![im-09](ipadart/im-09.png)
+![im-10](ipadart/im-10.png)
+![im-11](ipadart/im-11.png)
 
 
 <a name="Food"></a>
