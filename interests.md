@@ -1,16 +1,34 @@
 ---
 layout: page
 permalink: /interests/index.html
-title: Interests
+title: Art, Climbing, and Food
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
-## Interests
+## Art, Climbing, and Food
 
-1. [Food](#Food)
+1. [iPad Artwork](#iPad)
+2. [Food](#Food)
   * Smoking salmon
   * Making ice cream
-2. [Climbing](#Climbing)
+3. [Climbing](#Climbing)
+
+<a name="iPad"></a>
+### iPad Artwork
+
+Not much precision in finger art.
+![ipadart/im-01.png]
+![ipadart/im-02.png]
+![ipadart/im-03.png]
+![ipadart/im-04.png]
+![ipadart/im-05.png]
+![ipadart/im-06.png]
+![ipadart/im-07.png]
+![ipadart/im-08.png]
+![ipadart/im-09.png]
+![ipadart/im-10.png]
+![ipadart/im-11.png]
+
 
 <a name="Food"></a>
 
