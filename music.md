@@ -8,7 +8,7 @@ tags: [music]
 
 ### My High School Music Stuffs
 
-Here are 15 songs I wrote and produced a CD in 1998. The equalization is a bit off and the instruments are hard to hear at times. I also wasn't too happy with the mixing, but at that point in time, things were getting too expensive and I couldn't cover it. Still, I was proud of the final product; you can preview some of the songs here. (If you'd like to be able to seek/fast-forward/rewind, just go directly to the soundcloud link on the right hand side of the embedded player.)
+Here are 15 songs I wrote and produced a CD in 1998. You can preview some of the songs here. If you'd like to be able to seek/fast-forward/rewind, just go directly to the soundcloud link on the right hand side of the embedded player.
 
 <iframe width="100%" height="100" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245685441&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <iframe width="100%" height="100" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245685422&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
