@@ -1,5 +1,14 @@
 ##iPad Fingerpainting
 
+---
+layout: home
+title: "iPad Art"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: typewriter.jpg
+---
+
+
 <a name="iPad"></a>
 
 The first few were using iPad's default photos program. Started doodling on the plane on a business trip, and then realized that it's not too difficult to do it. 
