@@ -1,9 +1,8 @@
 ---
-layout: home
-title: "iPad Art"
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-feature: typewriter.jpg
+layout: page
+permalink: /interests/ipadart/index.html
+title: Art, Climbing, and Food
+tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
 ##iPad Fingerpainting
