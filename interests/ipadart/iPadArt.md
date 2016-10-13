@@ -1,13 +1,12 @@
-##iPad Fingerpainting
-
 ---
 layout: home
 title: "iPad Art"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+feature: typewriter.jpg
 ---
 
+##iPad Fingerpainting
 
 <a name="iPad"></a>
 
