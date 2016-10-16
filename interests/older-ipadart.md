@@ -12,7 +12,7 @@ The first few were using iPad's default photos program. Started doodling on the 
 
 ### iPad Artwork with Default iPad App
 
-![im-01](older-ipadart/im-01.png)
+![im-01](ipadart/im-01.png)
 ![im-02](ipadart/im-02.png)
 ![im-03](ipadart/im-03.png)
 ![im-04](ipadart/im-04.png)
