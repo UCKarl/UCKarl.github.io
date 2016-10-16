@@ -5,7 +5,7 @@ title: Art, Climbing, and Food
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
-##iPad Fingerpainting
+## iPad Fingerpainting
 
 <a name="iPad"></a>
 
