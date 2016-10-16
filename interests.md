@@ -7,5 +7,5 @@ tags: [climbing,riding,ice cream,smoked salmon,music]
 
 ## Interests
 
-1. [iPad Art](/interests/ipadart)
+1. [iPad Art](uckarl.github.io/interests/ipadart)
 
