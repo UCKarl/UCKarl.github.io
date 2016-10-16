@@ -30,6 +30,10 @@ GlobalSIP, 2013
 
 ## Selected lectures
 
+**GPU Technology Conference (GTC)**:
+*Sampling Methods for Joint CPU/GPU Training of Unstructured Multimedia Deep Learning*, October 2016
+
+
 **Center for Advanced Signal and Image Sciences (CASIS)**:
 *Im2Vec: Mapping Images into a Semantic Vector Representation*, May 2015
 
