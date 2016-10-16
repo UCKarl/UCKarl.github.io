@@ -7,4 +7,4 @@ tags: [climbing,riding,ice cream,smoked salmon]
 
 ## iPad Fingerpainting
 
-[Older work](interests/older-ipadart)
+[Older work](../older-ipadart)
