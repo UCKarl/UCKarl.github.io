@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /interests/older-ipadart/index.html
+title: Art, Climbing, and Food
+tags: [climbing,riding,ice cream,smoked salmon]
+---
+
+
 ## Older iPad Artwork
 
 The first few were using iPad's default photos program. Started doodling on the plane on a business trip, and then realized that it's not too difficult to do it.
