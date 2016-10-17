@@ -6,6 +6,6 @@ tags: [blog, graphic design]
 ---
 
 {% for shortstory in site.categories.shortstory %}
-  {{ shortstory.output }}
+  {{ shortstory.title }}
 {% endfor %}
 
