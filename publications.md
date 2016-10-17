@@ -31,7 +31,7 @@ GlobalSIP, 2013
 ## Selected lectures
 
 **GPU Technology Conference (GTC)**:
-*Sampling Methods for Training Joint CPU/GPU of Large-Scale Unstructured Multimedia Deep Networks*, October 2016
+*Sampling Methods for Training Joint CPU/GPU on Large-Scale Unstructured Multimedia Deep Networks*, October 2016
 
 
 **Center for Advanced Signal and Image Sciences (CASIS)**:
