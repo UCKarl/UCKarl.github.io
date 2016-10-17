@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /blog/index.html
+permalink: /interests/shortstories/index.html
 title: "Short Stories"
 tags: [shortstories, blog, graphic design]
 ---
