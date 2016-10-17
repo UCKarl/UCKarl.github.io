@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /articles/index.html
-title: "Articles"
+title: "Short Stories"
 tags: [blog, graphic design]
 ---
 
