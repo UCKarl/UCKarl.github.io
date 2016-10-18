@@ -14,4 +14,6 @@ tags: [links]
 [Scott Annin's Page](http://mathfaculty.fullerton.edu/sannin/)
 
 ### Social Media
+If you like my art, music, and interests, please connect with me on [twitter](http://twitter.com/karl_ni).
 
+If you would like to reach out about my projects, feel free to connect with me on [this twitter account](http://twitter.com/karllab41) or [e-mail](mailto:kni@iqt.org)
