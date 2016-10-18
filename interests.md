@@ -11,3 +11,4 @@ tags: [climbing,riding,ice cream,smoked salmon,music]
 
 ### [Short Stories](http://uckarl.github.io/interests/shortstories)
 
+### [Music](http://uckarl.github.io/music)
