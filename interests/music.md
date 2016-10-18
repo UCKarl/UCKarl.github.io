@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /music/index.html
+permalink: /interests/music/index.html
 title: Art and Music
 tags: [music]
 ---
