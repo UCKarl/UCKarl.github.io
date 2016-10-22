@@ -10,9 +10,8 @@ tags: [software]
 
 ## 2Vec or Not2Vec?
 This might be old news to you, but if you’re considering the use of word embeddings, our suggestion: just take the plunge. We’ve read a “few” studies documenting their effectiveness, not the least of which is our personal favorite:
-
 ```
-This paper is summarized best by its own statement, which should win it the award for most honest paper ever: “…we set out to conduct this study because we were annoyed by the triumphalist overtones often surrounding [neural network embeddings], despite the almost complete lack of a proper comparison…. Our secret wish was to discover that it is all hype… Instead, we found that the [embeddings] are so good that, while the triumphalist overtones still sound excessive, there are very good reasons to switch to the new architecture.
+This paper is summarized best by its own statement, which should win it the award for most honest paper ever:  ...we set out to conduct this study because we were annoyed by the triumphalist overtones often surrounding [neural network embeddings], despite the almost complete lack of a proper comparison…. Our secret wish was to discover that it is all hype… Instead, we found that the [embeddings] are so good that, while the triumphalist overtones still sound excessive, there are very good reasons to switch to the new architecture.
 ```
 
 [Baroni, Dinu, and Kruszewski](http://69.195.124.161/~aclwebor/anthology/P/P14/P14-1023.pdf) are a bit dramatic, but they get the point across. You may not be able to explain why (though we’ll try, here), but embeddings sure done work good. And as the most popular word embedding algorithm, not many techniques have caught fire as much as Tomas Mikolov’s word2vec algorithm.
