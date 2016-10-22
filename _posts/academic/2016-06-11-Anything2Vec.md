@@ -1,13 +1,14 @@
 ---
 layout: post-no-feature
 title: Anything2Vec
-description: "2Vec or Not2Vec?"
+description: "Another look at word2vec as a traditional neural network."
 categories: articles
 comments: true
 date: 2016-10-01
 tags: [software]
 ---
 
+## 2Vec or Not2Vec?
 This might be old news to you, but if you’re considering the use of word embeddings, our suggestion: just take the plunge. We’ve read a “few” studies documenting their effectiveness, not the least of which is our personal favorite:
 
 > This paper is summarized best by its own statement, which should win it the award for most honest paper ever: “…we set out to conduct this study because we were annoyed by the triumphalist overtones often surrounding [neural network embeddings], despite the almost complete lack of a proper comparison…. Our secret wish was to discover that it is all hype… Instead, we found that the [embeddings] are so good that, while the triumphalist overtones still sound excessive, there are very good reasons to switch to the new architecture.
