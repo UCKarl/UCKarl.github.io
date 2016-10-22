@@ -83,7 +83,28 @@ Let’s say we’re looking at the ith word. Then, that means we want to optimiz
 
 ![One-Hot Matrix Vector Mult](https://cdn-images-1.medium.com/max/800/0*1HC1zOhTFgKdu2yf.png)
 
- 
+Recall the objective function, where we’re multiplying the vector input with multiple output vectors. Let’s say, for example, I want to multiply two output vectors with the input vectors. So similarly, let’s select the output vectors, and multiply. Visually, this looks like:
 
+![vT WT W v](https://cdn-images-1.medium.com/max/800/0*1dH_reD8Y82bCA3n.png)
+
+which is the same as:
+
+![Wide Matrix Multiply](https://cdn-images-1.medium.com/max/800/0*Ax2eHOtCVMH7PRYd.png)
+
+Let’s turn the diagram 90 degrees, and put a cherry on the top by adding a sigmoid nonlinearity function.
+
+![Vertical Neural Network](https://cdn-images-1.medium.com/max/800/0*HILP1Q6YBwQTPkt_.png)
+
+So, if I were taking the sum of all the outputs, this would just look like:
+
+$$ \sum_i \log( \sigma( v_{w_i}^T v_{w_I}) ) = \sum_i y_i \log(V_O V_I \textbf{x} $$
+
+This should be more what you’re used to, though if you implement it like this with traditional tools, it’s probably really inefficient since you’re using matrix-vector multiplications rather than Mikolov’s vector-vector multiplications. Depending on how many vectors you use for negative sampling, you really only need to update a few vectors every iteration. So, obviously, you won’t want to use the BLAS library on the entire matrix vector multiplication, but if you plug in our equation from the previous section in, you’ll see that this is exactly your run of the mill neural network implementation, just tons more efficient.
+
+As a whole, current implementations (especially the multi-threaded) are cool because you’re sampling on the foreground and background distribution, and so in the limit, you’ll converge to a solution that places vectors based on their co-occurrence in text. There’s also a random component to it that could potentially get you out of local minima, given enough iterations. We’re real fans.
+
+## What did we just say?
+
+There you have it. The word2vec architecture is a neural network with two parameter matrices followed by a sigmoid activation function. It’s optimized by a binary cross-entropy cost function, using random negative sampling. If you want some code, feel free to get it at our Lab41 Github page.
 
 
