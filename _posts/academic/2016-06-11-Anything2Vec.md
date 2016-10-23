@@ -3,7 +3,7 @@ layout: post-no-feature
 title: Anything2Vec
 description: "Another look at word2vec as a traditional neural network."
 categories: articles
-comments: true
+comments: false
 date: 2016-10-01
 tags: [software]
 ---

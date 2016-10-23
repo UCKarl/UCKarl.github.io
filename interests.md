@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /interests/index.html
-title: Art, Climbing, and Food
+title: Art, Exercise, and Food
 tags: [climbing,riding,ice cream,smoked salmon,music]
 ---
 
@@ -9,6 +9,6 @@ tags: [climbing,riding,ice cream,smoked salmon,music]
 
 ### [iPad Art](http://uckarl.github.io/interests/ipadart)
 
-### [Short Stories](http://uckarl.github.io/interests/shortstories)
+### [Short and Fun Blog Posts](http://uckarl.github.io/interests/shortstories)
 
 ### [Music](http://uckarl.github.io/interests/music)
