@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post-academic
 title: Anything2Vec
 description: "Another look at word2vec as a traditional neural network."
 categories: articles
