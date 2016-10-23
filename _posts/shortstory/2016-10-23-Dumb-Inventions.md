@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post-fun
 title: Dumb Inventions
 description: "What If? Fun answers to wrong questions. Enjoy."
 categories: shortstory
