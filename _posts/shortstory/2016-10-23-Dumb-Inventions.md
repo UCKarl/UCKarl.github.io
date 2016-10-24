@@ -1,7 +1,7 @@
 ---
 layout: post-fun
 title: Dumb Inventions
-description: "What If? Fun answers to wrong questions. Enjoy."
+description: "What If? Fun answers to the wrong questions. Enjoy."
 categories: shortstory
 permalink: /2016/10/23/2016-10-16-Heiress.html
 comments: false
