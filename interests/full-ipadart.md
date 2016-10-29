@@ -5,7 +5,6 @@ title: iPad Fingerpaintings
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
-
 These are more recent paintings used with an updated iPad app. I experimented with a stylus, but ultimately decided that it was too restrictive, opting for zooming in to get the precision that I wanted.
 
 ### A City Scene
