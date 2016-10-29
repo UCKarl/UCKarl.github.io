@@ -13,3 +13,8 @@ Congratulations to Ryan and Helen on their Wedding in San Diego!
 
 ![Ryan and Helen in San Diego](ryan-hoi.png)
 
+### Robot Rosie
+
+This design went on a T-shirt.
+
+![Robot Rosie](robot-rosie.png)
