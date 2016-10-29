@@ -9,4 +9,4 @@ published: true
 date: 2016-10-26
 ---
 
-Ladies and Gentlemen, on this 26th of October, 2016, I present to you the Emperor Ludwin of the North American States
+Ladies and Gentlemen, on this 26th of October, 2016, I present to you the Emperor Ludwin of the North American States. 
