@@ -5,5 +5,6 @@ title: iPad Fingerpaintings
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
-1. [Paintings from NPR Stories](../story-ipadart)
-2. [Older iPad Fingerpaintings](../older-ipadart)
+1. [Paintings from NPR Stories](../full-ipadart)
+2. [Paintings from NPR Stories](../story-ipadart)
+3. [Older iPad Fingerpaintings](../older-ipadart)
