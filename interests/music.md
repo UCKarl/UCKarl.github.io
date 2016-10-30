@@ -5,6 +5,11 @@ title: Art and Music
 tags: [music]
 ---
 
+### Music Written for Wedding
+
+This song, originally composed in 2014, and is intended for the wedding march, and the bride's unveiling.
+
+![](bridal.m4a)
 
 ### My High School Music Stuffs
 
