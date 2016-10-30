@@ -1,7 +1,7 @@
 ---
-layout: post-lightfeature
+layout: home
 title: "Project Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: halloween.jpg
+  feature: typewriter.jpg
 ---
