@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: page
 title: "Project Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
