@@ -6,7 +6,7 @@ categories: shortstory
 permalink: /2016/10/26/2016-10-16-MeetLudwin.html
 comments: false
 published: true
-date: 2016-10-26
+date: 2016-03-13
 ---
 
 Ladies and Gentlemen, on this 26th of October, 2016, I present to you the Emperor Ludwin of the North American States. 
