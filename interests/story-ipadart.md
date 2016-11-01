@@ -5,13 +5,20 @@ title: iPad Fingerpaintings
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
 
+### Dine Like a Soviet Spy
 [ ![bar](mv-bar.png) ](http://musewak.blogspot.com/2016/07/dine-like-soviet-spy.html)
 
+### Yellowstone Public Service Announcement
 [ ![bear](mv-bear.png) ](http://musewak.blogspot.com/2016/07/yellowstone-public-service-announcement.html)
 
+### Jump Higher
 [ ![dive](mv-dive.png) ](http://musewak.blogspot.com/2016/08/jump-higher.html)
 
-[ ![gcar](mv-gcar.png) ](http://musewak.blogspot.com/2016/07/storycorps-interview.html)
+### Foie Gras Farm
+[ ![gcar](mv-gcar.png) ](http://musewak.blogspot.com/2016/08/foie-gras-farm.html)
+
+### Story Corps Interview
+[ ![girl](mv-girl.png) ](http://musewak.blogspot.com/2016/07/storycorps-interview.html)
 
 [ ![girl](mv-girl.png) ](http://musewak.blogspot.com/2016/08/foie-gras-farm.html)
 
