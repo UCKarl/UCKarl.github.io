@@ -39,5 +39,5 @@ tags: [climbing,riding,ice cream,smoked salmon]
 [ ![witch](mv-witch.png) ](http://musewak.blogspot.com/2016/08/witches-are-all-around.html)
 
 ### Noahs Ark Replica in Kentucky
-[ ![ship](w-ship.png) ](http://musewak.blogspot.com/2016/07/noahs-ark-replica-in-kentucky.html)
+[ ![ship](mv-ship.png) ](http://musewak.blogspot.com/2016/07/noahs-ark-replica-in-kentucky.html)
 
