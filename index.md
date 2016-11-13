@@ -1,5 +1,5 @@
 ---
-layout: home-feature
+layout: home
 title: "Project Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
