@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /interests/music/andorian_dragon/index.html
-title: An Andorian Dragon
+title: The Andorian Dragon
 tags: [music]
 ---
 
@@ -9,33 +9,52 @@ tags: [music]
 ## How He Helped Me Find You
 
 V1
-I walked through the valley of the Andorian Dragon 
-He looked through my heart, as he slowly spoke to me 
-Friend, your cause is worthy, just start to imagine 
-Her face, her smile, the mystery of your dream
+I hiked through the valley of the Andorian Dragon  
+He looked through my heart, as he slowly spoke to me  
+Friend, your cause is worthy, just start to imagine  
+The face, her smile, a mystery in your dream   
 
 V2
-So I swam through the waters of the Elysian sea 
-When I couldn't swim any further, the Dragon came to me
-Friend, take heart, and the Angels shall appear
-They'll lift your spirits, and drove away that fear
+So I swam through the waters of the Elysian sea  
+When I couldn't swim any further, the Dragon came to me  
+Friend, take heart, and the Angels shall appear  
+They'll lift your spirits, and drive away that fear  
 
 Pre-C
-Not giving up (am, E), I'm not giving in (FM)
+Not giving up (am, E), I'm not giving in (FM)  
 I'm fighting until the day (CM), Till I can find a way (GM)
 
 C
-And I traveled the world (CM, G)
+So I'll traveled the world (CM, G)
 just to catch a glimpse (FM, G)
 of what it's like (CM, G)
 to remember that bliss (GM, D)
 
-But I never could find,
-as I've lost my damn mind
-a momen that felt right
-when you were in my life
+But I never could find,  
+as I've lost my damn mind  
+a moment that felt right  
+like when you were in my life  
 
 V3
-Weary traveler, said the dragon, I'll be your friend
+Weary traveler, said the dragon, I'll be your friend  
 For as long as you need, and maybe that's the end
-But please, have some rest
+But please for now, have some rest  
+We'll start again tomorrow, tonight you're my guest  
+
+V4
+So I took a load off, and closed my eyes
+But I just saw your smile when I closed eyes  
+I took my pack and made 
+
+C
+So I climbed every tree
+and I scaled every cliff
+Until I got lost and 
+my ship floated adrift
+
+But I never could find,
+as I've lost my damn mind  
+a moment that felt right  
+like when you were in my life 
+
+
