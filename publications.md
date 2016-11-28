@@ -32,6 +32,7 @@ GlobalSIP, 2013
 
 **GPU Technology Conference (GTC)**:
 *Sampling Methods for Training Deep and Wide GPU/CPU Algorithms on Large-Scale Unstructured Multimedia*, October 2016
+[Video](https://disthost01.ovationevents.com/_NvidiaGTC-DC16/Wednesday/Polaris/dcs16133-karl-ni-vishal-sandesara-image-retrieval.mp4)
 
 
 **Center for Advanced Signal and Image Sciences (CASIS)**:
