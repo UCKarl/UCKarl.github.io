@@ -25,7 +25,7 @@ Not giving up (am, E), I'm not giving in (FM)
 I'm fighting until the day (CM), Till I can find a way (GM)
 
 C
-So I'll traveled the world (CM, G)
+So I travel the world (CM, G)
 just to catch a glimpse (FM, G)
 of what it's like (CM, G)
 to remember that bliss (GM, D)
@@ -42,9 +42,10 @@ But please for now, have some rest
 We'll start again tomorrow, tonight you're my guest  
 
 V4
-So I took a load off, and closed my eyes
-But I just saw your smile when I closed eyes  
-I took my pack and made 
+So I took a load off, I closed my eyes
+As I waited for the sandman to take me away
+But all I could see was you in the skies
+Our fingers touched and you told me to stay
 
 C
 So I climbed every tree
