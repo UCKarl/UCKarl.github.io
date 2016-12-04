@@ -59,8 +59,10 @@ a moment that felt right
 like when you were in my life 
 
 Post-C
-I've been searching for the sign
-a mine
+I've been searching for the sign  
+a message or note divine 
+taking it off the mark  
+to step out from the dark
 
 V5
 It's been ten years, and the night has come fast  
