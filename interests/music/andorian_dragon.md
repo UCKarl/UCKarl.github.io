@@ -65,18 +65,19 @@ a mine
 V5
 It's been ten years, and the night has come fast
 My tired, dear friend, you have known it all along
-You've see it in your reflection behind the looking glass
-And while the truth stares at you, you've not accepted she's gone
+You've seen it in your reflection behind the looking glass
+And while the truth stares at you, you can't accept she's gone
 
-I can fly with you, cried the Andorian Dragon
-because you still need me, and to get your way through
-But have you known it, have you seen it
-that maybe I need you too
+But I can still fly with you, cried the Andorian Dragon
+because you may need me, if you'd still see it through
+We'll discover where the elves hide, and dig down where dwarves dwell
+You see, my companion, that maybe I need you too
 
 C
 So we stayed together,
-the dragon and me,
-Our lonely 
+that dragon and me,
+We gave each other hope
+and a reason 
 
 
 And even though I've never found
