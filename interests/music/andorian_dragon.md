@@ -42,10 +42,10 @@ But please for now, have some rest
 We'll start again tomorrow, tonight you're my guest  
 
 V4
-So I took a load off, I closed my eyes
-As I waited for the sandman to take me away
-But all I could see was you in the skies
-Our fingers touched and you told me to stay
+So I took a load off, I closed my eyes  
+As I waited for the sandman to take me away  
+But all I could see was you in the skies  
+Our fingers touched and you told me to stay  
 
 C
 So I climbed every tree
@@ -58,4 +58,29 @@ as I've lost my damn mind
 a moment that felt right  
 like when you were in my life 
 
+Post-C
+I've been searching for the sign
+a mine
+
+V5
+It's been ten years, and the night has come fast
+My tired, dear friend, you have known it all along
+You've see it in your reflection behind the looking glass
+And while the truth stares at you, you've not accepted she's gone
+
+I can fly with you, cried the Andorian Dragon
+because you still need me, and to get your way through
+But have you known it, have you seen it
+that maybe I need you too
+
+C
+So we stayed together,
+the dragon and me,
+Our lonely 
+
+
+And even though I've never found
+your eyes safe and price
+I'm just living for the moment 
+like when you were in my life
 
