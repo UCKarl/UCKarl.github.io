@@ -18,3 +18,9 @@ Congratulations to Ryan and Helen on their Wedding in San Diego!
 This design went on a T-shirt.
 
 ![Robot Rosie](robot-rosie.png)
+
+### Rosie the Dog
+
+Her hair's a lot longer now, but here's Rosie!
+
+![Rosie](rosie.png)

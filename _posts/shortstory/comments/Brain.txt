@@ -1,0 +1,2 @@
+![comment]() In reality, 3kJ is not all that much current, but it's enough to create an electromagentic or EM field. What's an EM field? The technical description is boring, but you already know what they're used for. They heat up your food in the microwave, put pictures on your cellphone, and light up a room. Pretty much everything that uses a battery or plugs into the wall has an EM field.
+
