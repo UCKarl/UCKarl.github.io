@@ -23,4 +23,4 @@ This design went on a T-shirt.
 
 Her hair's a lot longer now, but here's Rosie!
 
-![Rosie](rosie.png)
+![Rosie](rosie.jpg)
