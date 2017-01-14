@@ -1,6 +1,6 @@
 ---
 layout: post-fun
-title: The Power
+title: I come from ...
 description: "Where would you venture tonight?"
 categories: shortstory
 permalink: /2017/01/14/2017-01-14-TheSandman.html
