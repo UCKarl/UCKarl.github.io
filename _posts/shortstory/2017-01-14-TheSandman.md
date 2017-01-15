@@ -13,7 +13,7 @@ Part of a create writing exercise, where we must come up with a poem/story begin
 
 #### I come from ...
 
-...the depths of your mind, just before you drift away, as your consciousness slips from your grasp. I await...calmly and ready to embrace.
+...the depths of your mind just before you drift away, as your consciousness slips from your grasp. I wait...calmly and ready to embrace.
 
 You never remember me, but every night I reach out and ask where you'd like to venture. And some lurid nights, when dreams turn perilous, I whisk you back to lucidness, oftentimes too hard by whiplashing you to sit up, out of breath.
 
