@@ -27,11 +27,11 @@ How about a castle rendezvous with a knight in medieval times? How about riding 
 
 Fine, then! I'll keep watch; I'll wake you soon...and know that I will be your *only* friend for this night.
 
-He is together on the bench with someone. It is cold, and the autumn breeze blow leaves onto your face. Your hair, so annoying, brushes your lips and sticks on your tongue. Pfft, you blow it away.
+He sits together on the bench with someone. Their backs lean toward you, and as they watch the sunset, their shadows drown your feet. It is cold, and the autumn breeze blow leaves onto your face. Your hair, so annoying, brushes your lips and sticks on your tongue. Pfft, you blow it away.
 
 You draw closer, and you see his arm around her. She looks like you from behind. Her hair also blows in the wind. 
 
-As you reach out to touch your ex-lover's shoulder, your doppelganger turns toward you. She has no face; eyeless and featureless. She has no face, yet you know she is beautiful. She. Has. No. Face. You should be horrified. But that is not what you feel as there are tears of sadness welling instead. You jerk your eyes toward your ex-lover as he abruptly stands. And with him the faceless doppelganger stroll away hand-in-hand as you open your mouth to shout. As hard as you try, no noise emanates.
+As you reach out to touch your ex-lover's shoulder, your doppelganger turns toward you. She has no face; eyeless and featureless. She has no face, yet you know she is beautiful. She. Has. No. Face. You should be horrified. But that is not what you feel. There are tears of sadness welling instead. You jerk your eyes toward your ex-lover as he abruptly stands. And with him the faceless doppelganger stroll away hand-in-hand as you open your mouth to shout. As hard as you try, no noise comes out.
 
 Enough. It is time to leave. I have told you as much. Let's go home, even though your bed is cold tonight. What's that? Of course, I'll stay a while and smile for you. I have one condition. Tomorrow night, it is my choice; I will insist on where to go.
 
