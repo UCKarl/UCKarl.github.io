@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /interests/ipadart/index.html
+permalink: /interests/climbing/index.html
 title: Climbing Logs
 tags: [climbing,riding,ice cream,smoked salmon]
 ---
