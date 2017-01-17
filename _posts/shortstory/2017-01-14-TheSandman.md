@@ -11,7 +11,7 @@ date: 2017-01-14
 
 ...the depths of your mind just before you drift away, as your consciousness slips from your grasp. I wait...calmly and ready to embrace.
 
-You never remember me, but every night I reach out and ask where you'd like to venture. And some lurid nights, when dreams turn perilous, I whisk you back to lucidness, oftentimes too hard by whiplashing you to sit up, out of breath.
+You never remember me, but every night I reach out and ask where you'd like to venture. And sometimes, when dreams turn perilous, I whisk you back to lucidness, oftentimes too hard, and you are whiplashed as you find yourself sitting up, out of breath.
 
 My name? I have many. My favorite arises because I materialize when I appear and diseintegrate when I leave, almost as though each molecule of my body shoots off in various directions...a man of sand for those who can remember seeing me.
 
@@ -21,7 +21,7 @@ Under the sea? Atop a cavern on the moon? What's that? You would like to see a f
 
 How about a castle rendezvous with a knight in medieval times? How about riding an air-cycle with a robot friend? No? Still you desire *that* dream?
 
-Fine, then! I'll keep watch; I'll wake you soon...and know that I will be your *only* friend for this night.
+Fine, then! I'll keep watch; I'll wake you soon...and know that I will be your *only* friend for this lurid night.
 
 He sits together on the bench with someone. Their backs lean toward you, and as they watch the sunset, their shadows drown your feet. It is cold, and the autumn breeze blow leaves onto your face. Your hair, so annoying, brushes your lips and sticks on your tongue. Pfft, you blow it away.
 
