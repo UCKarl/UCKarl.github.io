@@ -23,7 +23,7 @@ How about a castle rendezvous with a knight in medieval times? How about riding 
 
 Fine, then! I'll keep watch; I'll wake you soon...and know that I will be your *only* friend for this lurid night.
 
-He sits together on the bench with someone. Their backs lean toward you, and as they watch the sunset, their shadows drown your feet. It is cold, and the autumn breeze blow leaves onto your face. Your hair, so annoying, brushes your lips and sticks on your tongue. Pfft, you blow it away.
+He sits together on the bench with someone. Their backs lean toward you, and as they watch the sunset, shadows drown your feet. It is cold, and the autumn breeze blow leaves onto your face. Your hair, so annoying, brushes your lips and sticks on your tongue. Pfft, you blow it away.
 
 You draw closer, and you see his arm around her. She looks like you from behind. Her hair also blows in the wind. 
 
