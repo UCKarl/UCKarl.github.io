@@ -13,7 +13,7 @@ date: 2017-01-14
 
 You never remember me, but every night I reach out and ask where you'd like to venture. And sometimes, when dreams turn perilous, I whisk you back to lucidness, oftentimes too hard, and you are whiplashed as you find yourself sitting up, out of breath.
 
-My name? I have many. My favorite arises because I materialize when I appear and diseintegrate when I leave, almost as though each molecule of my body shoots off in various directions...a man of sand for those who can remember seeing me.
+My name? I have many. My favorite comes about because I materialize when I appear and diseintegrate when I leave, almost as though each molecule of my body shoots off in various directions...a man of sand for those who can remember seeing me.
 
 Tonight, where would you like to journey? What adventures shall we embark on? I can grant you flight; I can grant you unlimited breath...or maybe I'm in a humorous mood and strip away your clothing save your underwear lest you notice...always too late. It's just a joke, do not worry, I will gladly pull you back before you embarrass too much.
 
