@@ -1,6 +1,6 @@
 ---
 layout: post-fun
-title: On Societal Enforcement of Structural Norms
+title: On Caltrain
 description: "Just another short ride to work on CalTrain"
 categories: shortstory
 permalink: /2017/02/03/2017-02-03-Societal-Enforcement.html
@@ -9,7 +9,7 @@ published: true
 date: 2017-02-03
 ---
 
-The Caltrain penalty for fare evasion is $250, which under civil statute, is a minimum payment subject to which county you're traveling through. So, you could conceivably be paying well over $380, which is likely if you get caught in San Mateo. To you and me, this amount hurts, enough to make me double check whether or not I've tagged on every time the silver double doors close. It's more than an annoyance. But to the day laborer who's rushing to his second job after a night shift, someone who's more likely to be taking public transit...someone who's overworked and has become absent minded, the story changes dramatically. It's enough to derail an education for their children, affect their livelihood, or prevent them from making their rent payment. It would obliterate them, and there’d be no recourse. California is one of the most progressive states in the country, but institutional penalties like this have the ability to disenfranchise its citizens through what is commonly (and insufficiently) described as a regressive fine.
+The Caltrain penalty for fare evasion is $250, which under civil statute, is a minimum payment subject to which county you're traveling through. So, you could conceivably be paying well over $380, which is likely if you get caught in San Mateo. To you and me, this amount hurts, enough to make me double check whether or not I've tagged on every time the silver double doors close. It's more than an annoyance. But to the day laborer who's rushing to his second job after a night shift, someone who's more likely to be taking public transit...someone who's overworked and hence more likely to forget, the story changes dramatically. It's enough to derail an education for their children, affect their livelihood, or prevent them from making their rent payment. It would obliterate them, and there’d be no recourse. California is one of the most progressive states in the country, but institutional penalties like this have the ability to disenfranchise its citizens through what is commonly (and insufficiently) described as a regressive fine.
 
 Indignation. We can do better; we're Americans, a nation that cares for its own.
 
