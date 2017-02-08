@@ -1,9 +1,9 @@
 ---
 layout: post-fun
-title: On Caltrain
-description: "Just another short ride to work on CalTrain"
+title: On the Thursday CalTrain
+description: "A morning commute that tired me more than expected..."
 categories: shortstory
-permalink: /2017/02/03/2017-02-03-Societal-Enforcement.html
+permalink: /2017/02/03/2017-02-03-On-Caltrain.html
 comments: false
 published: true
 date: 2017-02-03
