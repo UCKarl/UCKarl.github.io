@@ -16,7 +16,7 @@ She wheeled around on her heels with her unremarkable tan cargo pants and oversi
 
 --
 
-Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive to Cambridge, MA, from California to visit Aunt Bethany, and I was admittedly resentful and hesitant. Since I'm naturally introverted, my shyness begged for indigance at the deviance from my original plan; I would much rather have taken in the nation's sights alone. Also, I hardly knew Aunt Bethany, and since she was way older than my mom, we really had nothing in common. After some passive-aggressive seething coupled with an overt argument or two, I had unlocked my iPhone and dialed what was likely a rotary mechanized phone on the other end.
+Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive to Cambridge, MA, from California to visit Aunt Bethany. I was admittedly resentful and hesitant. Since I'm naturally introverted, my shyness begged for indigance at the deviance from my original plan; I would much rather have taken in the nation's sights alone. Also, I hardly knew Aunt Bethany, and since she was way older than my mom, we really had nothing in common. After some passive-aggressive seething coupled with an overt argument or two, I had unlocked my iPhone and dialed what was likely a rotary mechanized phone on the other end.
  
 "Hello, who is this?" a loud and creaky voice demanded.
 
@@ -26,17 +26,17 @@ Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive t
 
 "It's Walter!"
 
-"Walter? I don't know no Walter!"
+"Walter? I don't know any Walters!"
 
 I sighed, and continued, "It's your sister Jenny's son, Walter!"
 
 "Oh yes! Lil' Jenny and Walter! It's been too long, I only saw you last in your Minnie Mouse diapers!"
 
-That was untrue; she used that line at the few family gatherings (about three by my reckoning) both of us happened to attend. It was a line that I'm sure would embarrass me at my wedding one day. "Yes, Aunt Bethany, I'm seventeen, now. I'm going to college."
+That was untrue; she used that line at the few (three by my count) family gatherings both of us happened to attend. It was a line that I'm sure would embarrass me at my wedding one day. "Yes, Aunt Bethany, I'm seventeen, now. I'm going to college."
 
-I explained to her my driving plan, and we spent two hours on the phone, mostly with me repeating myself. Mom had learned a few years ago that Aunt Bethany's husband had passed away, and she had been meaning to make a trip out there. My cross-country drive allowed some alleviation of her guilty conscience to act as a surrogate since it's exceedingly hard to fly to I-forget-the-name-of-nowheres-ville, IN, This fact was also the same reason we seldom saw Aunt Bethany ever, though the infrequency apparently promoted lavish gifts when we did.
+I explained to her my driving plan, and we spent two hours on the phone, mostly with me repeating myself. Mom had learned a few years ago that Aunt Bethany's husband had passed away, and she had been meaning to make a trip out there. My cross-country drive allowed some alleviation of her guilty conscience to act as a surrogate since it's exceedingly hard to fly to I-forget-the-name-of-nowheres-ville, IN, This fact was also the same reason we seldom ever saw Aunt Bethany, though the infrequency apparently promoted lavish gifts when we did.
 
-Together, Aunt Bethany and I decided meet at her work on Saturday, and she would take me on a tour of the Pepsi plant she worked at. Aunt Bethany had an obscure job that I thought would've been automated out by now. That was more my ignorance, and truthfully, I know nothing about the soft-drink industry, just that she was a bottle-capping inspector for a large plant in the middle of America. 
+Together, Aunt Bethany and I decided meet at her work on Saturday, and she would take me on a tour of the Pepsi plant she worked at. Aunt Bethany had an obscure job that I thought would've been automated out by now. That was more my ignorance; I know nothing about the soft-drink industry, just that she was a bottle-capping inspector for a large plant in the middle of America. 
 
 We worked through the rest of the agenda. She'd show me around town and we'd have a nice American supper so that I could feel refreshed the next morning to continue on my journey through college...and likely, the rest of life. Sounded good to me. Can't wait, I had said out loud...to get this over with, I had said in my head.
 
