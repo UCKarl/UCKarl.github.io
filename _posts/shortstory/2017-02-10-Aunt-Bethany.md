@@ -160,5 +160,5 @@ A sigh. She stood and placed the picture on a shelf. A small chuckle, "Oh Calvin
 
 She trailed off a bit. And then continued to hum.
 
-I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again, But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg. And I get the sense that maybe she needs me around for a lil' bit too.
+I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again. But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg. And I get the sense that maybe she needs me around for a lil' bit too.
 
