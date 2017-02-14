@@ -12,7 +12,7 @@ date: 2017-02-10
 
 "Well you just put that there down by the lockers, honey," Aunt Bethany offered when I arrived at PepsiCo's main lobby. From the outside, the building itself was as large and shiney as Aunt Bethany was vibrant and indefatigable, despite her outward elderly appearance. "Don't hurt your back on the count of lil' ol' me. Now just hold on a sec. I'll get Charlie to sign you in. We don't get many visitors on the weekends in Chantilee, so I'll have to kick the ol' bag an' wake him up."
 
-She wheeled around on her heels while her unremarkable tan cargo pants and oversized cotton white T-shirt clung onto her, struggling to keep up. The folds on the large Pepsi logo seemed to wave back at me by oscillating back and forth as she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby she disappeared through was excessively large and ornate, I suddenly became aware of her dimunitive size by referencing the handrails that came up to her chest in passageway. 
+She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging onto her, struggling to keep up. The folds on the large Pepsi logo seemed to wave back at me by oscillating back and forth as she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby she disappeared through was excessively large and ornate, I suddenly became aware of her dimunitive size by referencing the handrails that came up to her chest in passageway. 
 
 --
 
