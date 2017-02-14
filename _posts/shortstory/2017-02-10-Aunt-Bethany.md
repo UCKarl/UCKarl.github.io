@@ -42,7 +42,7 @@ We worked through the rest of the agenda. She'd show me around town and we'd hav
 
 --
 
-Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Kendallville, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
+Now, here I was at Pepsico Manufacturing, IN,  staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Kendallville, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
 
 Dude, she's your aunt, Walt. And she's like a three-thousand years old right now. And speak of the devil, I jerked to attention...
 
