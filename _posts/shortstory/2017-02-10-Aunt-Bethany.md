@@ -14,7 +14,7 @@ date: 2017-02-10
 
 She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging onto her, struggling to keep up. The folds on the large Pepsi logo seemed to wave back at me by oscillating back and forth as she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby she disappeared through was excessively large and ornate, I suddenly became aware of her dimunitive size by referencing the handrails that came up to her chest in passageway. 
 
-***
+---
 
 Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive to Cambridge, MA, from California to visit Aunt Bethany. I was admittedly resentful and hesitant. Since I'm naturally introverted, my shyness begged for indigance at the deviance from my original plan; I would much rather have taken in the nation's sights alone. Also, I hardly knew Aunt Bethany, and since she was way older than my mom, we really had nothing in common. After some passive-aggressive seething coupled with an overt argument or two, I had unlocked my iPhone and dialed what was likely a rotary mechanized phone on the other end.
  
@@ -40,7 +40,7 @@ Together, Aunt Bethany and I decided meet at her work on Saturday, and she would
 
 We worked through the rest of the agenda. She'd show me around town and we'd have a nice American supper so that I could feel refreshed the next morning to continue on my journey through college...and likely, the rest of life. Sounded good to me. Can't wait, I had said out loud...to get this over with, I had said in my head.
 
-***
+---
 
 Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle with the painted words *PepsiCo, Chantilee* glaring at me from above. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Chantilee, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
 
