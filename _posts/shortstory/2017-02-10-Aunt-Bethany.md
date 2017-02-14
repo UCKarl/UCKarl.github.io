@@ -138,7 +138,7 @@ Aunt Bethany kicked me underneath the table a little too hard. Occasionally, a c
 
 I rolled my eyes, but was secretly appreciative that Aunt Bethany was a surprisingly good wing-woman.
 
-The rest of the night was a blur, and picked my Kia and drove back to Aunt Bethany's house. She showed me around the one bedroom apartment, and made the couch with some sheets and blankets. "You like some tea?"
+The rest of the night was a blur. Aunt Bethany dropped me off to pick up my Kia, which I drove back to her house. She showed me around the one bedroom apartment, and made the couch with some sheets and blankets. "You like some tea?"
 
 I nodded.
 
