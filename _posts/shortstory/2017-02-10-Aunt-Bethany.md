@@ -148,17 +148,17 @@ I started to drift off a bit while she talked. Her voice reminded me of my mom's
 
 I heard faint humming from Aunt Bethany's room down the hall, and I couldn't quite make out the tune. Barefooted, I slowly grabbed my phone and used its screen to make my way to her room. It was Don McLean's American Pie. 
 
-The door was shut, but it still had an old fashioned keyhole that I could peep through. I leaned down and peered through it. Her back towards me, the Pepsi logo'd t-shirt had been replaced by a brown jacket. It was still somewhat hot in the house, yet she was wearing a jacket? It was a man's aviator jacket, one that I had seen Uncle Calvin wear on occasion at Christmas. 
+The door was shut, but it still had an old fashioned keyhole that I could peep through. I leaned down and peered through it. Her back towards me, the Pepsi logo'd t-shirt had been replaced by a brown jacket. It was still hot in the house, yet she was wearing a jacket? It was a man's aviator jacket, one that I had seen Uncle Calvin wear on occasion at Christmas. 
 
 She was slouched over looking down at something on the corner of her bed, a picture. 
 
 "Took my Chevy to the levy, but the levy was dry."
 
-She stood and placed the picture on a shelf as she climbed into bed, still wearing Uncle Calvin's aviator jacket. It was the same picture of her being lifted up by Uncle Calvin that I'd seen in the factory.
+A sigh. She stood and placed the picture on a shelf. A small chuckle, "Oh Calvin, I do miss you." She climbed into bed, still wearing Uncle Calvin's aviator jacket. My peeping eye made its way over to the shelf and found the same picture in the factory of her being lifted up.
 
 "Then good ol' boys, ..."
 
 She trailed off a bit. And then continued to hum.
 
-I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again, But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg. And maybe she needs me too.
+I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again, But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg. And I get the sense that maybe she needs me around for a lil' bit too.
 
