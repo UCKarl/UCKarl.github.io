@@ -90,9 +90,9 @@ Chuckle. "Of course not, Sweetie! I can just see him now. Your eyes look like hi
  
 I left my 2013 Kia Sorrento in the parking lot because Aunt Bethany insisted on riding together in her ancient Cadillac DeVille. The Cadillac was a boat on wheels, and it had the type of suspension that didn't let you feel the road. There were beads with a cross on the mirror, and the AM/FM tuner was entirely analog. I was feeling a bit oppressed by the heat, so I tried to find a dial for the window because I was fairly certain that the push buttons for the A/C wouldn't depress. It smelled slightly of smoke anyway, and realized that there was no button. There was, however, a handle to manually role the window down. 
 
-"You want some gum, Sugah?" she asked as she reached into a huge purse that she'd set beside her. "Don't role that window down too far, Honey. Ever since your Uncle Calvin died, I couldn't figure out how to role that one back up. He used to be the mechanic of the house, and this confounded hunk o' junk was always giving him trouble." 
+"You want some gum, Sugah?" she asked as she reached into a huge purse that she'd set beside her. "Don't role that window down too far, Honey. Ever since your Uncle Calvin died, I couldn't figure out how to role that one back up. He used to be of the mechanical-like, and this confounded hunk o' junk was always giving him trouble." 
 
-I nodded as I sucked in the fresh air.
+I nodded as I sucked in the fresh air through the crack in the window that I managed to open.
 
 "Texas Roadhouse BBQ, I know the cook! You'll get a hoot outta him," she winked. "It's been round here since I was a lil' girl. Y'see that there thingy-doodle? I bet you don't know what that is!"
 
