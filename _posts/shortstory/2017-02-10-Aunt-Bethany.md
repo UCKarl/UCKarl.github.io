@@ -134,7 +134,7 @@ Clarice's father and Aunt Bethany yelled out stories about a stray dog's recurri
 
 "Aww," was all I could muster.
 
-Aunt Bethany kicked me underneath the table a little too hard. Occasionally, a customer would come, and Clarice would need to service them. That was when Aunt Bethany would laugh and encourage me. "Now Sugah, I do got some dirt on you. Those Minnie Mouse diapers you were wearing when you were a baby? I can remember you runnin' all 'round in those lil' things."
+Aunt Bethany kicked me underneath the table a little too hard. Occasionally, a customer would come, and Clarice would need to service them. That was when Aunt Bethany would laugh and encourage me. "Now Sugah, you go on and make some acquaintances. Otherwise, I got some dirt on you. Those Minnie Mouse diapers you were wearing when you were a baby? I can remember you runnin' all 'round in those lil' things."
 
 I rolled my eyes, but was secretly appreciative that Aunt Bethany was a surprisingly good wing-woman.
 
