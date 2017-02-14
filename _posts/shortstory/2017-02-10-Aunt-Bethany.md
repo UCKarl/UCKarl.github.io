@@ -68,7 +68,7 @@ Soldiers...Vietnam: 1970's, I believe? I guessed she had a lot of boyfriends sto
 
 "Honey, what're you thinking about right now? Looks like I've lost ya again!" Aunt Bethany exclaimed with a smile on her face. "Alright now, seems you'd rather be somewhere else. That's fine, I know when I'm rambling."
 
-Of course she was rambling, but none more than usual. My mom always called Aunt Bethany chatty to her face, but that was not quite the right word for it. It was more like being talked at than chatting. She would take on the responsibility of holding court, even if you're the host. She'd try to take care of you and feed you, which I thought was ironic since she never mentioned having kids. Right then, I found that I really didn't mind all that much. I'm a pretty quiet guy, and so it's easy when the other party assumes the role of both sides of the conversation.
+Of course she was rambling, but none more than usual. My mom always called Aunt Bethany chatty to her face, but that was not quite the right word for it. It was more like being talked at than chatting. She would take on the responsibility of holding court, even if you're the host. She'd try to take care of you and feed you, which I thought was ironic since she never had any kids. Right then, I found that I really didn't mind all that much. I'm a pretty quiet guy, and so it's easy when the other party assumes the role of both sides of the conversation.
 
 Still, my curiosity wouldn't allow my fascination with the lobby picture to be left alone. "No, no, Aunt Bethany. I was just thinking about the picture I saw in the lobby." 
 
