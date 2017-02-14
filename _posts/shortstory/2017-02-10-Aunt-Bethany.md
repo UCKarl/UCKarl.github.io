@@ -44,27 +44,27 @@ We worked through the rest of the agenda. She'd show me around town and we'd hav
 
 Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle with the painted words *PepsiCo, Chantilee* glaring at me from above. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Chantilee, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
 
-Dude, she's your aunt, Walt. And she's like a three-thousand years old right now. And speak of the devil, I jerked to attention...
+Dude, she's your aunt, Walt. By the way, she's like three-thousand years old right now. And speak of the devil, I jerked to attention...
 
 "Here it is! I got it, Honey!"
 
 She waved around a sticker on her index finger, presumably with my name on it. I looked back at the 1973 picture and whispered, "Naahhh". This old lady had an old-woman perm with peppered-white and gray hair. This old lady had huge Coke-...Pepsi-bottled glasses that were bifocaled. And this old lady couldn't be that young lady.
 
-"Now Walter. You gotta remember to keep your hands to yourself. There's a lotta dangerous stuff in here, and I ain't going to tell your Momma that you lost your finger on account of me."
+"Now Walter. You gotta remember to keep your hands to yourself. There's a lotta dangerous stuff in here, and I ain't going to tell your momma that you lost your finger on account of me."
 
 "Yes, Aunt Bethany"
 
-We toured the plant for a few hours, and when my attention span faltered, I reached into my pocket for my phone. Aunt Bethany, aware of this, would slap my hand away and take it as she led me through large machinery.
+We toured the plant for a few hours. When my attention span faltered, I reached into my pocket for my phone. Aunt Bethany, aware of this, would slap my hand away and take it as she led me through rooms with massive machines looming over us.
 
-"Now boy! You gonna appreciate this when you grow older. Not many people have been through our lil' factory, and this is where all the magic happens."
+"Now, hon! You gonna appreciate this when you grow older. Not many people have been through our lil' factory, and this is where all the magic happens."
 
-As we walked past large metal arms and silver gears, my mind wondered. What must it had been like to work here. I'm sure the factory looked very different back when Aunt Bethany first started, which was I guess in the 1970's? Those blue eyes with bags under them have witnessed changes in automation that detailed the history of American manufacturing. We arrived at what must have been an relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
+As we walked past large metal arms and silver gears, my mind wondered. What must it had been like to work here. I'm sure the factory looked very different back when Aunt Bethany first started, which was I surmised was in the 1970's. Those blue eyes with bags under them have been witness to changes in automation that detailed the history of American manufacturing. We arrived at what must have been a well-preserved relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
 
 "And this, well, this is where I sat. And this here contraption was my faithful bottle-capper! Y'see it still works and all; just take your hand and press on it right there. Yeah, that's it right there. It ain't all that easy, right? Your Aunt Bethany used to have some muscle. Boy I was thin back then," she lamented as she patted her belly, "cuz I worked out on this here lee-ver!"
 
-Her voice faltered slightly; it was barely perceptible because she masked it with volume. "The foreman said that I was an MVP...everyone loved me back then." Sigh, "I don't think any of those guys is alive anymore, but I made my friends sitting right here in this chair. 'Course it helped that I was the only girl on the assembly line for a few years until Julie showed up," she chuckled. "The boys on the line got 'specially jealous when soldiers dropped by before heading out to 'Nam." By now, the chuckle had evolved into a cackle.
+Her voice faltered slightly. It was barely perceptible because she masked it with her consistently loud voice projection. "The foreman said that I was an MVP...everyone loved me back then." Sigh, "I don't think any of those guys is alive anymore, but I made them my friends sitting right here in this chair. 'Course it helped that I was the only girl on the assembly line for a few years until Julie showed up," she chuckled. "The boys on the line got 'specially jealous when soldiers dropped by before heading out to 'Nam." By now, the chuckle had evolved into a cackle.
 
-Soldiers...Vietnam: 1970's, right? I guessed she had a lot of boyfriends stopping by the factory in po-dunk Indiana before shipping out. And then, a ton of bricks fell on me. I didn't show it, but I could see the picture from the lobby in my mind again, the one from 1973. One of the two muscular men holding Aunt Bethany up looked an awful lot like Uncle Calvin when he was alive. 
+Soldiers...Vietnam: 1970's, I believe? I guessed she had a lot of boyfriends stopping by the factory in po-dunk Indiana before shipping out. And then, a ton of bricks fell on me. I didn't show it, but I could see the picture from the lobby in my mind again, the one from 1973. One of the two muscular men holding Aunt Bethany up looked an awful lot like Uncle Calvin when he was alive. 
 
 "Honey, what're you thinking about right now? Looks like I've lost ya again!" Aunt Bethany exclaimed with a smile on her face. "Alright now, seems you'd rather be somewhere else. That's fine, I know when I'm rambling."
 
