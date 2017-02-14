@@ -10,7 +10,7 @@ date: 2017-02-10
 ---
 
 
-"Well you just put that there down by the lockers, honey," Aunt Bethany offered when I arrived at PepsiCo's main lobby. From the outside, the building itself was as large and shiney as Bethany's energy was, despite her physical appearance: old and grey. "Don't hurt your back on the count of lil' ol' me. Now just hold on a sec, I'll get Charlie to sign you in. We don't get many visitors on the weekends in Chantily, so I'll have to kick the ol' bag an' wake him up."
+"Well you just put that there down by the lockers, honey," Aunt Bethany offered when I arrived at PepsiCo's main lobby. From the outside, the building itself was as large and shiney as Bethany's energy was, despite her physical appearance: old and grey. "Don't hurt your back on the count of lil' ol' me. Now just hold on a sec, I'll get Charlie to sign you in. We don't get many visitors on the weekends in Wytheville, so I'll have to kick the ol' bag an' wake him up."
 
 She wheeled around on her heels as her unremarkable tan cargo pants and oversized cotton white T-shirt struggled to keep up. The folds on the large Pepsi logo seemed to wave back at me by oscillating back and forth while she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby she disappeared through was excessively large and ornate, I suddenly became aware of her dimunitive size by referencing the handrails that came up to her chest in passageway. 
 
@@ -42,7 +42,7 @@ We worked through the rest of the agenda. She'd show me around town and we'd hav
 
 --
 
-Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Chantily, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
+Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Kendallville, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
 
 Dude, she's your aunt, Walt. And she's like a three-thousand years old right now. And speak of the devil, I jerked to attention...
 
@@ -128,7 +128,7 @@ Unfazed, Aunt Bethany continued, "You two both gonna go to college an' have some
 
 Aunt Bethany told more stories about Pepsi and the ice cream shop while Clarice and I secretly glanced at each other. Clarice's father had emerged from the back and yelled, "Is that ol' Ms Bethany? Ooh wee! Yes it is! Good to see you, ma'am!" 
 
-Clarice, her father, and Aunt Bethany yelled out stories about a stray dog, that time a bear walked around Chantily, and then Aunt Bethany would brag about how I was going to some fancy East Coast school. 
+Clarice's father and Aunt Bethany yelled out stories about a stray dog's recurring visits at the shop, that time a bear walked around Kendallville, and sometimes Uncle Calvin. And then Aunt Bethany would brag about how I was going to some fancy East Coast school. 
 
 "Really, I heard all tha schools out there are full of geniuses," Clarice charmingly inserted. 
 
@@ -160,5 +160,5 @@ She stood and placed the picture on a shelf as she climbed into bed, still weari
 
 She trailed off a bit. And then continued to hum.
 
-I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Wednesday. Who knows; maybe I can get some ice cream again, But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg.
+I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again, But really, I think I might need a bit more of Aunt Bethany's stories and her brash and loud commentary before I start the next leg. And maybe she needs me too.
 
