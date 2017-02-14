@@ -128,7 +128,7 @@ Unfazed, Aunt Bethany continued, "You two both gonna go to college an' have some
 
 Aunt Bethany told more stories about Pepsi and the ice cream shop while Clarice and I secretly glanced at each other. Clarice's father had emerged from the back and yelled, "Is that ol' Ms Bethany? Ooh wee! Yes it is! Good to see you, ma'am!" 
 
-Clarice's father and Aunt Bethany yelled out stories about a stray dog's recurring visits at the shop, that time a bear walked around Kendallville, and sometimes Uncle Calvin. And then Aunt Bethany would brag about how I was going to some fancy East Coast school. 
+Clarice's father and Aunt Bethany yelled out stories about a stray dog's recurring visits at the shop, that time a bear walked around Chantilee, and sometimes Uncle Calvin. And then Aunt Bethany would brag about how I was going to some fancy East Coast school. 
 
 "Really, I heard all tha schools out there are full of geniuses," Clarice charmingly inserted. 
 
