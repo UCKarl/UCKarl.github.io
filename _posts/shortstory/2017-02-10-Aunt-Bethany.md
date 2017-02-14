@@ -104,7 +104,7 @@ I glanced outside as we approached the restaurant. It was a rusty water pump, un
 
 A little chuckle...and then, "BYE BYE MS AMERICAN PIE! TOOK MY ... " I almost had to cover my ears.
 
-We had dinner; she picked at a salad while going on about the cook. Apparently, he was also named Walter, which she thought was funnier than I did. I laughed anyway, and I noticed that it made her light up. It dawned on me that she might not have heard laughter at any of her jokes for a while, probably because she hadn't told a joke in a while. Most of the workers at the factory had retired by now, and I'm sure they were on pension, and perhaps they had moved away with their children. Those that remained were likely dead or in a nursing home.
+We had dinner; she picked at a salad while going on about the cook. Apparently, he was also named Walter, which she thought was funnier than I did. I laughed anyway, and I noticed that it made her light up. It dawned on me that she might not have heard laughter at any of her jokes for a while, probably because she hadn't told a joke in a while. Most of the workers at the factory had retired by now, and I'm sure they were on pension, or perhaps they had moved away with their children. Those that remained were likely dead or in a nursing home.
 
 Before long, I was devouring some ribs and potatoes, uttering the occasional, "Mm hmm." Being on the road had meant MacDonald's and Burger King for days on end, and this was some quality meat. I hardly noticed the restaurant decour. What I do remember of it was that there were bison heads mounted over doorways. Pictures of the local population, many of whom were in military uniform, also haphazardly littered the walls. 
 
