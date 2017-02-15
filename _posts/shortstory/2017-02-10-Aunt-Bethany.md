@@ -154,7 +154,7 @@ She was slouched over looking down at something on the corner of her bed, a pict
 
 "Took my Chevy to the levy, but the levy was dry."
 
-A sigh. She stood and placed the picture on a shelf. A small chuckle, "Oh Calvin, I do miss you." She climbed into bed, still wearing Uncle Calvin's aviator jacket. My peeping eye made its way over to the shelf and found the same picture in the factory of her being lifted up.
+A sigh. She stood and placed the picture on a shelf. A small chuckle, "Yes, yes, I remember." She climbed into bed, still wearing Uncle Calvin's aviator jacket. My peeping eye made its way over to the shelf and found the same picture in the factory of her being lifted up.
 
 "Then good ol' boys, ..."
 
