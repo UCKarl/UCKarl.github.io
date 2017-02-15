@@ -160,5 +160,5 @@ A sigh. She stood and placed the picture on a shelf. A small chuckle, "Yes, yes,
 
 She trailed off a bit. And then continued to hum.
 
-I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows; maybe I can get some ice cream again. Maybe I might need a bit more of Aunt Bethany's stories and her brash commentary before I start the next leg. And maybe she might want some more company for a lil' while.
+I stood up and stretched my back. I had a good time tonight. Maybe another day or two wouldn't hurt. Orientation doesn't start until next Friday. Who knows? Maybe I can get some ice cream again. Maybe I might need a bit more of Aunt Bethany's stories and her brash commentary before I start the next leg. And maybe she might want some more company for a lil' while.
 
