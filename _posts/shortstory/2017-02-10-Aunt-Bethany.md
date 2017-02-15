@@ -58,7 +58,7 @@ We toured the plant for a few hours. When my attention span faltered, I reached 
 
 "Now, hon! You gonna appreciate this when you grow older. Not many people have been through our lil' factory, and this is where all the magic happens."
 
-As we walked past large metal arms and silver gears, my mind wondered. What must it had been like to work here. I'm sure the factory looked very different back when Aunt Bethany first started, which was I surmised was in the 1970's. Those blue eyes with bags under them have been witness to changes in automation that detailed the history of American manufacturing. We arrived at what must have been a well-preserved relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
+As we walked past large metal arms and silver gears, my mind wondered. What must it had been like to work here. I'm sure the factory looked very different back when Aunt Bethany first started, which I surmised was in the 1970's. Those blue eyes with bags under them have been witness to changes in automation that detailed the history of American manufacturing. We arrived at what must have been a well-preserved relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
 
 "And this, well, this is where I sat. And this here contraption was my faithful bottle-capper! Y'see it still works and all; just take your hand and press on it right there. Yeah, that's it right there. It ain't all that easy, right? Your Aunt Bethany used to have some muscle. Boy I was thin back then," she lamented as she patted her belly, "cuz I worked out on this here lee-ver!"
 
