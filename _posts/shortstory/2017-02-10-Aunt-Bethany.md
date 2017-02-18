@@ -12,7 +12,7 @@ date: 2017-02-10
 
 "Well you just put that there down by the lockers, honey," Aunt Bethany offered when I arrived at PepsiCo's main lobby. From the outside, the building itself was as large and shiney as Aunt Bethany was vibrant and indefatigable, despite her outward elderly appearance. "Don't hurt your back on the count of lil' ol' me. Now just hold on a sec. I'll get Charlie to sign you in. We don't get many visitors on the weekends in Chantilee, so I'll have to kick the ol' bag an' wake him up."
 
-She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging onto her, struggling to keep up. The folds on the large Pepsi logo seemed to wave back at me by oscillating back and forth as she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby she disappeared through was excessively large and ornate, I suddenly became aware of her dimunitive size by referencing the handrails that came up to her chest in passageway. 
+She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging onto her, her clothes struggling to keep up. The folds on the large Pepsi logo on her back waved at me while she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby was excessively large and ornate, I was alerted to her dimunitive size by referencing the handrails that came up to her chest in passageway. 
 
 ---
 
@@ -30,25 +30,25 @@ Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive t
 
 I sighed, and continued, "It's your sister Jenny's son, Walter!"
 
-"Oh yes! Lil' Jenny and Walter! It's been too long, I only saw you last in your Minnie Mouse diapers!"
+"Oh yes! Lil' Jenny and Walter! It's been too long, I saw you last in your Minnie Mouse diapers!"
 
-That was untrue; she used that line at the few (three by my count) family gatherings both of us happened to attend. It was a line that I'm sure would embarrass me at my wedding one day. "Yes, Aunt Bethany, I'm seventeen, now. I'm going to college."
+That was untrue. In fact, she had used that line at the few (three by my count) family gatherings both of us happened to attend. It was a line that I'm sure would embarrass me at my wedding one day. "Yes, Aunt Bethany, I'm seventeen, now. I'm going to college."
 
-I explained to her my driving plan, and we spent two hours on the phone, mostly with me repeating myself. Mom had learned a few years ago that Aunt Bethany's husband had passed away, and she had been meaning to make a trip out there. My cross-country drive allowed some alleviation of her guilty conscience to act as a surrogate since it's exceedingly hard to fly to I-forget-the-name-of-nowheres-ville, IN, This fact was also the same reason we seldom ever saw Aunt Bethany, though the infrequency apparently promoted lavish gifts when we did.
+I explained to her my driving plan, and we spent two hours on the phone, mostly with me repeating myself. Mom had learned a few years ago that Aunt Bethany's husband had passed away, and she had been meaning to make a trip out there. My cross-country drive allowed some alleviation of her guilty conscience to act as a surrogate since it's exceedingly hard to fly to I-forget-the-name-of-nowheres-ville, IN. This fact was also the same reason we seldom ever saw Aunt Bethany, though the infrequency promoted lavish gifts when we did.
 
-Together, Aunt Bethany and I decided meet at her work on Saturday, and she would take me on a tour of the Pepsi plant she worked at. Aunt Bethany had an obscure job that I thought would've been automated out by now. That was more my ignorance; I know nothing about the soft-drink industry, just that she was a bottle-capping inspector for a large plant in the middle of America. 
+Together, Aunt Bethany and I decided meet at her work on Saturday, and she would take me on a tour of the Pepsi plant she worked at. Aunt Bethany had an obscure job that I thought would've been automated out by now. That notion was more my ignorance: I know nothing about the soft-drink industry, just that she was a bottle-capping inspector for a large plant in the middle of America. 
 
 We worked through the rest of the agenda. She'd show me around town and we'd have a nice American supper so that I could feel refreshed the next morning to continue on my journey through college...and likely, the rest of life. Sounded good to me. Can't wait, I had said out loud...to get this over with, I had said in my head.
 
 ---
 
-Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle with the painted words *PepsiCo, Chantilee* glaring at me from above. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Chantilee, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi lifted up by two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
+Now, here I was, staring at a glass case of bowling trophies and employee of the year awards on the wall in the lobby of a blue-collar building shaped in the form of a bottle with the painted words *PepsiCo, Chantilee* glaring at me from above. What was that? I did a double take at the memorabilia on the wall. Aunt Bethany's name appeared on an astounding eleven of the plaques. Tracing the hanging pictures back to the end of the wall, I squinted. "Most Inspiring Employee, 1973, Chantilee, IN: Bethany Livenston." Below the scripted title, a photograph in brighter-than-life technicolor grabbed me with a striking blond in a one-piece swimsuit showing off a glass bottle of Pepsi on the shoulders of two muscular men in military uniform. My aunt was a bombshell, raged my teenage hormones.
 
 Dude, she's your aunt, Walt. By the way, she's like three-thousand years old right now. And speak of the devil, I jerked to attention...
 
 "Here it is! I got it, Honey!"
 
-She waved around a sticker on her index finger, presumably with my name on it. I looked back at the 1973 picture and whispered, "Naahhh". This old lady had an old-woman perm with peppered-white and gray hair. This old lady had huge Coke-...Pepsi-bottled glasses that were bifocaled. And this old lady couldn't be that young lady.
+She waved around a sticker on her index finger, presumably with my name on it. I looked back at the 1973 picture and whispered, "Naah". This old lady had an old-woman perm with peppered-white and gray hair. This old lady had huge Coke-...Pepsi-bottled glasses that were bifocaled. And this old lady couldn't be that young lady.
 
 "Now Walter. You gotta remember to keep your hands to yourself. There's a lotta dangerous stuff in here, and I ain't going to tell your momma that you lost your finger on account of me."
 
