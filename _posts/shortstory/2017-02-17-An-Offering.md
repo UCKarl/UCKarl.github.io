@@ -33,9 +33,9 @@ I slowly started to accept my fate, and I sank lower into my seat.
 
 "Not interested."
 
-Stop and go. My anxiety. After a few minutes, 
+Stop and go. Each jerk forward and backward compressed my lungs and I had become queasy.
 
-"Yeah, you want your cellphone, huh. I don't get you types, man. You should have thought of all of this before you neglected to pay your rent," Everett asserted.
+"Yeah, you want your cellphone, huh," Everett asserted. He had been thinking about my plea for the past five minutes. As he spat these words towards the front windshield, my chest tightened. I struggled to suck air in. And then it came. "I don't get you types. You should have thought of all of this before you neglected to pay your rent."
 
 And then my face and ears started to tingle. It wasn't that I was denied my cellphone; I expected that. It wasn't that he had authority over my fate and what I could and couldn't have or do. It was the casual indifference, the subtle judgement that I should have known better, the careless dismissal of the person rather than the request itself. That is when my heart-rate cranked up from a hundred beats per minute to a thousand beats per second. The cold cavity of uncertainty started to fill with a hot rush of blood flowing through my arteries that got sucked up through my veins.
 
