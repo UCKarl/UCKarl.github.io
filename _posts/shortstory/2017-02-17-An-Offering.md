@@ -15,11 +15,11 @@ The radio cackled with intermittent and almost unintelligible chatter, not that 
 
 A click and a creak interrupted my meditation routine, and the white noise of wind and a crowd filled the cabin of the Crown Victoria while a young officer, Officer Johnny, climbed in. (I don't remember his real name.) Another click and a creak, and now double the noise. The other officer, an older and more grizzled officer dropped in along with the smell of cigarettes. Let's call him Officer Everett. It was all very Training Day-esque.
 
-"You alright back there?" asked the younger officer in the passenger seat.
+"You alright back there?" asked Officer Johnny in the passenger seat.
 
 A raspy voice responded, "No." I realized that the voice belonged to me.
 
-"Good," the older officer goaded.
+"Good," Officer Everett goaded.
 
 The car accelerated away from MLK Blvd. We climbed the onramp to the freeway and promptly encountered traffic. I noticed the clock on the car radio clock about twenty minutes later, at which time my thoughts started becoming more lucid and my head cleared.
 
