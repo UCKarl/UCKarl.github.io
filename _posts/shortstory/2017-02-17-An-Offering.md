@@ -1,7 +1,7 @@
 ---
 layout: post-fun
 title: An Offering 
-description: "Words have power in the darkest of times..."
+description: "We all do this..."
 categories: shortstory
 permalink: /2017/02/17/2017-02-17-An-Offering.html
 comments: false
