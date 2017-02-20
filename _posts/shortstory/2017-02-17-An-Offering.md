@@ -45,7 +45,7 @@ And before my brain could tug the reins, "You types? Look, you don't know me. Yo
 
 "Wait, I'm not done yet. Threatening my landlord might've been a bad decision. I've made plenty of those. But maybe I've done worse, and maybe I know a bit more about judgement than you do. Because maybe I saw it from my buddy's wife when I got my purple heart, and all she got was her husband's body. I saw it from a stupid kid's mom when my CO ordered me to shoot him because he was gonna blow us up. A kid not much older than the one who's waiting for his dad right now...and maybe that's why I need a phone."
 
-I could feel the heart beating in the temples of my head begin to dampen and slow. The flood gates had released their load. And then silence. The traffic lightened. Officer Johnny's silhoette shielded the sun from my eyes. Officer Everett quietly wrote on a clipboard. My mind no longer to raced. It didn't matter. None of it did. I closed my eyes.
+Sweet release. I could feel the heart beating in the temples of my head begin to dampen and slow. The flood gates had purged their load. And then silence. The traffic lightened. Officer Johnny's silhoette shielded the sun from my eyes. Officer Everett quietly wrote on a clipboard. My mind no longer to raced. It didn't matter. None of it did. I closed my eyes.
 
 I felt the belt tighten across my chest, and deducted that the car was decelerating. A police station loomed over us. A complete stop. I opened my eyes. Officer Johnny had already left the car. Officer Everett was blankly staring at me. He had slipped my iPhone through the grating that separated the rear bench from the front.
 
