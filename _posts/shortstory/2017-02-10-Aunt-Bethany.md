@@ -12,11 +12,11 @@ date: 2017-02-10
 
 "Well you just put that there down by the lockers, honey," Aunt Bethany offered when I arrived at PepsiCo's main lobby. From the outside, the building itself was as large and shiney as Aunt Bethany was vibrant and indefatigable, despite her outward elderly appearance. "Don't hurt your back on the count of lil' ol' me. Now just hold on a sec. I'll get Charlie to sign you in. We don't get many visitors on the weekends in Chantilee, so I'll have to kick the ol' bag an' wake him up."
 
-She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging onto her, her clothes struggling to keep up. The folds on the large Pepsi logo on her back waved at me while she power walked off to talk to Charlie. I waited behind and placed my backpack near the lockers as instructed. Even though the entrance behind the lobby was excessively large and ornate, I was alerted to her dimunitive size by referencing the handrails that came up to her chest in passageway. 
+She wheeled around on her heels with her unremarkable tan cargo pants and oversized cotton white T-shirt clinging as though struggling to keep up. The folds on the large Pepsi logo on her back waved at me while she power walked across the lobby. Even though the hallway behind the lobby was excessively large and ornate, I was alerted to her dimunitive size by referencing the handrails that came up to her chest in passageway. I waited behind and placed my backpack near the lockers as instructed. 
 
 ---
 
-Four weeks ago, Mom had wanted me to stop by Indiana on my cross-country drive to Cambridge, MA, from California to visit Aunt Bethany. I was admittedly resentful and hesitant. Since I'm naturally introverted, my shyness begged for indigance at the deviance from my original plan; I would much rather have taken in the nation's sights alone. Also, I hardly knew Aunt Bethany, and since she was way older than my mom, we really had nothing in common. After some passive-aggressive seething coupled with an overt argument or two, I had unlocked my iPhone and dialed what was likely a rotary mechanized phone on the other end.
+Four weeks ago, Mom asked me to stop by Indiana on my cross-country drive to Cambridge, MA, from California to visit Aunt Bethany. I was admittedly resentful and hesitant. Since I'm naturally introverted, I was indigant at the deviance from my original plan and would much rather have taken in the nation's sights alone. Also, I hardly knew Aunt Bethany, and since she was way older than my mom, we really had nothing in common. After some passive-aggressive seething coupled with an overt argument or two, I had unlocked my iPhone and dialed what was likely a rotary mechanized phone on the other end.
  
 "Hello, who is this?" a loud and creaky voice demanded.
 
@@ -58,7 +58,7 @@ We toured the plant for a few hours. When my attention span faltered, I reached 
 
 "Now, hon! You gonna appreciate this when you grow older. Not many people have been through our lil' factory, and this is where all the magic happens."
 
-As we walked past large metal arms and silver gears, my mind wondered. What must it had been like to work here. I'm sure the factory looked very different back when Aunt Bethany first started, which I surmised was in the 1970's. Those blue eyes with bags under them have been witness to changes in automation that detailed the history of American manufacturing. We arrived at what must have been a well-preserved relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
+As we walked past large metal arms and silver gears, my mind wandered. What must it had been like to work here? I'm sure the factory looked very different back when Aunt Bethany first started, which I surmised was in the 1970's. Those blue eyes with bags under them have been witness to changes in automation that detailed the history of American manufacturing. We arrived at what must have been a well-preserved relic of the factory. It was a small workstation with a lever that hung over a long assembly belt with indentations where bottles would have been placed.
 
 "And this, well, this is where I sat. And this here contraption was my faithful bottle-capper! Y'see it still works and all; just take your hand and press on it right there. Yeah, that's it right there. It ain't all that easy, right? Your Aunt Bethany used to have some muscle. Boy I was thin back then," she lamented as she patted her belly, "cuz I worked out on this here lee-ver!"
 
@@ -110,11 +110,11 @@ Before long, I was devouring some ribs and potatoes, uttering the occasional, "M
 
 We laughed a bit, and I was surprised at how much of a good time I was having listening to Aunt Bethany's stories. Maybe it was the fact that I'd been on the road without hearing a live human voice. Or, maybe it was just her honesty and matter-of-fact tone that she loudly asserted. Her force of personality exuded energy that my quiet personality soaked in.
 
-I had barely licked the last bit of gravy on my plate when Aunt Bethany eagerly asked, "You done? Now...how 'bout some ice cream? I know just tha place!"
+I had barely licked the last bit of gravy on my plate when Aunt Bethany eagerly asked, "You done? Now...how 'bout some ice cream? I know just the place!"
 
 We walked over to Ned's Ice Cream Shop around the corner, without having to get back into the old Cadillac. "Uncle Calvin used to love their banana-nut coffee flavor; I hope they're in stock today! My friend owns the place and they've been runnin' it for years. It's got these cute lil' sprinkles too; you should have some. It's family run, y'know? I'm so proud of them keepin' the business alive."
 
-I opened the door for Aunt Bethany, but then froze in my tracks. Behind the counter was a young brunette girl with freckles scooping out pistaschio strawberry ice cream for another patron. Cute girl alert! Cute girl alert! Cute girl alert! Aunt Bethany hadn't noticed that I wasn't following her in and was loudly proclaiming the virtues of being self-sufficient or something along those lines. She turned around and giggled loudly. Too loudly. "Now, Walt! What're you doin' standin' all tha way out there; you're letting the hot air in!" 
+I opened the door for Aunt Bethany, but then froze in my tracks. Behind the counter was a young brunette girl with freckles scooping out pistaschio strawberry ice cream for another patron. Cute girl alert! Cute girl alert! Cute girl alert! Aunt Bethany hadn't noticed that I wasn't following her in and was loudly proclaiming the virtues of being self-sufficient or something along those lines. She turned around and giggled loudly. Too loudly. "Now, Walt! What're you doin' standin' all the way out there; you're letting the hot air in!" 
 
 Shoot, the girl noticed and smiled politely, "Hey there Ms Bethany. How're you doin'?"
 
@@ -130,7 +130,7 @@ Aunt Bethany told more stories about Pepsi and the ice cream shop while Clarice 
 
 Clarice's father and Aunt Bethany yelled out stories about a stray dog's recurring visits at the shop, that time a bear walked around Chantilee, and sometimes Uncle Calvin. And then Aunt Bethany would brag about how I was going to some fancy East Coast school. 
 
-"Really, I heard all tha schools out there are full of geniuses," Clarice charmingly inserted. 
+"Really, I heard all the schools out there are full of geniuses," Clarice charmingly inserted. 
 
 "Aww," was all I could muster.
 
