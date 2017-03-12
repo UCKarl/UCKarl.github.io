@@ -9,7 +9,7 @@ tags: [climbing,riding,ice cream,smoked salmon,music]
 
 ### [iPad Art](http://uckarl.github.io/interests/ipadart)
 
-### [Blog Posts](http://uckarl.github.io/interests/shortstories)
+### [Short Stories](http://uckarl.github.io/interests/shortstories)
 
 ### [Music](http://uckarl.github.io/interests/music)
 

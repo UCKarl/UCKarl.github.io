@@ -1,7 +1,7 @@
 ---
 layout: home-shortstories
 permalink: /interests/shortstories/index.html
-title: "Short and Fun Blog Posts"
+title: "Short Stories"
 tags: [blog, graphic design]
 ---
 
