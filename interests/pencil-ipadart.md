@@ -9,8 +9,6 @@ Some stencils and basic sketches that were used to practice.
 
 ### The Hand
 
-Drew this after watching a YouTube video on how to draw hands.
-
 ![Experimenting with Hands](pencil-hand.png)
 
 ### The Meeting

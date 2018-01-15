@@ -21,6 +21,6 @@ This design went on a T-shirt.
 
 ### Rosie the Dog
 
-Her hair's a lot longer now, but here's Rosie!
+The real Rosie.
 
 ![Rosie](rosie.jpg)
