@@ -6,6 +6,8 @@ categories: articles
 comments: false
 date: 2016-10-01
 tags: [software]
+redirect_to:
+  - https://gab41.lab41.org/anything2vec-e99ec0dc186
 ---
 
 ## 2Vec or Not2Vec?
